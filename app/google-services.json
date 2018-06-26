@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "694096038004",
+    "firebase_url": "https://pruebarealt-8a02b.firebaseio.com",
+    "project_id": "pruebarealt-8a02b",
+    "storage_bucket": "pruebarealt-8a02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694096038004:android:33a3d3609d2f3fbb",
+        "android_client_info": {
+          "package_name": "com.example.johnny.pruebart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694096038004-0256beg76i65gdo4fbvdo12vu7m0ohqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnny.pruebart",
+            "certificate_hash": "a9ee5b39512bc996eebc694449e104b5a480636f"
+          }
+        },
+        {
+          "client_id": "694096038004-briodv44sga5naat5omt2upi296qvi2s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "694096038004-briodv44sga5naat5omt2upi296qvi2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjks8jU5pdV6BlstLkqi-UORCMYrqT1zI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694096038004-briodv44sga5naat5omt2upi296qvi2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/fecha"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="12/03/2018" />
+
+        <TextView
+            android:id="@+id/descripcion"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="descripcion" />
+
+        <TextView
+            android:id="@+id/debe"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:text="1000" />
+
+        <TextView
+            android:id="@+id/haber"
+            android:layout_width="58dp"
+            android:layout_height="wrap_content"
+            android:text="1000" />
+    </LinearLayout>
+
+</RelativeLayout>
